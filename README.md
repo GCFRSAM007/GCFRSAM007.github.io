@@ -22,6 +22,7 @@ Data  retrieval (SELECT): Queried and extracted specific information from the da
 Data aggregation SUM,COUNT): Calculated tools; such as sales and quantity, and counted records to analyse data. 
 Data filtering (WHERE,BETWEEN,IN,AND): Applied filters to select relevant data, including filtering by ranges and lists.
 Data source specification (FROM): Specified the table used as a data sources for retrieval.
+
 **Project Description:**
 
 **Technology used:** SQL Server
