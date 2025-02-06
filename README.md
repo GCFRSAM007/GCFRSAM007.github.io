@@ -11,7 +11,7 @@
 **Dashboard Overview:**
 ![Capture](Capture.PNG)
 
-# Project 1
+# Project 2
 
 **Title:** Football player data-SQL data manipulation and interrogation
 
